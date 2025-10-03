@@ -92,6 +92,88 @@ setAura;
 getMaxBody;
 
 
+NBT's
+addonFormID: 1
+addonFormLevel: 0
+auraID: -1
+DBCBaseFlightSpeed: 1
+DBCDynamicFlightSpeed: 1
+DBCFlightEnabled: 1
+DBCFlightGravity: 1
+DBCFlightSpeedRelease: 100
+DBCIsInFPressed: 0
+DBCSagaSys: 99
+DBCSenzu: 0
+DBCSprintSpeed: 1
+jmcAccept: 1
+jmcAFGrStFT: 0
+jmcAICntr: 645
+jmcAlign: 67
+jmcArcRsrv: 0
+jmcAuraColor: 0
+jmcBdy: 677
+jmcClass: 0
+jmcCnsl: 15
+jmcCnsl2: 22
+jmcDecl: 7
+jmcDefdTimes: 0
+jmcDiff: 0
+jmcDNSA: 0400a0000000410012RVm158mr0zNRj17rpJ0000002xHW02xHW
+jmcDNSAU:
+jmcDNSH:
+jmcEngy: 1080
+jmcFuzion: 0
+jmcGravForce: 0
+jmcGTmmng: 0
+jmcInstntTransmissionTimers: 0
+jmcInt: 5
+jmcKarma: 0
+jmcKillCountEvil: 0
+jmcKillCountGood: 0
+jmcKillCountNeut: 0
+jmcMajinAbsorptionData: 0,0,0,+0
+JRMCmissionSync:
+JRMCmissionSyncVers:
+jmcPwrtyp: 1
+jmcRace: 4
+jmcRelease: 0
+jmcSaiRg: 0
+jmcSettings:
+jmcSlts:
+jmcSltsX: TR0
+jmcSltsY: pty
+jmcSltsZ: pty
+jmcSmoc: 3330916
+jmcStamina: 97
+jmcState2: 0
+jmcState: 3
+jmcStatusEff: M
+jmcStr: 20
+jmcTech1:
+jmcTech2:
+jmcTech3:
+jmcTech4:
+jmcTech5:
+jmcTech6:
+jmcTech7:
+jmcTech8:
+jmcTech9:
+jmcTlmd: -1
+jmcTp: 0
+jmcTpoint: 2000000000
+jmcTPlimit2: 0
+jmcTPlimit: 0
+jmcUIStateReach: 0
+jmcUIWasInPain: 0
+jmcUIWasInPainDuration: 0
+jmcWill: 5
+JRYCAge: 0
+outlineID: -1
+saocAp: 0
+saocCol: 0
+saocLvl: 1
+
+
 ID's dos Saiyajins:
 1- ssj
 2- ssjG2
