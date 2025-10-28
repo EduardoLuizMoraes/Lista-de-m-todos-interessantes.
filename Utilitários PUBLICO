@@ -238,13 +238,9 @@ ID's dos Majin:
 
 Partículas detectadas (58): 
 
-explode, largeexplode, hugeexplosion, fireworksSpark, bubble, splash,
-wake, townaura, crit, magicCrit, smoke, largesmoke, spell, instantSpell,
-mobSpell, witchMagic, note, portal, enchantmenttable, flame, lava, footstep,
-cloud, reddust, snowballpoof, dripWater, dripLava, snowshovel, slime, heart,
-angryVillager, happyVillager, barrier, tilecrack, iconcrack, blockcrack,
-blockdust, smoke2, vortex, sweep, soul, ash, spark, sparkle, flame2, lava2,
-reddust2, splash2, crit2, witch, portal2, dragonbreath, kiSpark, kiBurst,
-kiWave, energy, energyBall, energyTrail
-
+explode, largeexplode, hugeexplosion, fireworksSpark (cloud melhor), bubble, splash,
+wake (splash menor), townaura (void), crit, magicCrit, smoke, largesmoke, spell (poção), instantSpell (poção em x),
+mobSpell (poção colorida), witchMagic (ender dragon), note, portal, enchantmenttable, flame, lava, footstep (particula mais bizarra),
+cloud, reddust, snowballpoof, dripWater, dripLava, snowshovel (flocos neve), slime, heart,
+angryVillager, happyVillager.
 
